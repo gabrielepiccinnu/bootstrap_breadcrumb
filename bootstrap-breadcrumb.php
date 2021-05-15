@@ -6,7 +6,7 @@
 * @author ajulien
 * @link https://github.com/ajulien-fr/bootstrap_breadcrumb/blob/master/bootstrap-breadcrumb.php
 * 
-* I just edited some for new schema.org compatibility 
+* I just update for schema.org compatibility 
 */
 
 
